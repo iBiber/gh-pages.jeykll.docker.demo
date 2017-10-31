@@ -7,4 +7,6 @@ theme: jekyll-theme-midnight
 exclude: [vendor]
 
 # Github settings - will be filled normally by github-pages
-# repository: myGithubUser/myGithubRepositoryName
+url: "https://ibiber.github.io"
+baseurl: "/gh-pages.jeykll.docker.demo"
+repository: iBiber/gh-pages.jeykll.docker.demo
