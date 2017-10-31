@@ -1,0 +1,4 @@
+web
+vendor
+Gemfile.lock
+*.gem
